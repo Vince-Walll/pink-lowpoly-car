@@ -1,10 +1,11 @@
-# pink-lowpoly-car
-# My Low-Poly Car - Blender
+# Pink Low-Poly Car - Blender
 
-My First 3D Model in Blender.
+My first Blender model. Low-poly stylized car.
 
-![My Car](pink-car.png)
+![Render](pink-car.png)
 
-- Made with Blender 4.x
-- Render Engine cycles
-- Download the .glb to view in 3D
+### 3D Files
+- `.blend` - Blender source
+- `.glb` - 3D viewable on GitHub (click it to spin!)
+
+Made with Blender + Cycles
